@@ -26,7 +26,7 @@
       HTML; CSS; JAVASCRIPT; NODE; REACT; TYPESCRIPT; 
       ---------------------------------------------------------------------------------------------------------
       
-Entre em contato pelos link abaixo:
+Entre em contato pelos links abaixo:
 
 <div>
 
