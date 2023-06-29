@@ -2,11 +2,10 @@
 
       ------------------------------------------------------------------------
           👩🏽‍🦲Me chamo Gabriel Mormanno, tenho 23 Anos;
-          💖Estou em um Relacionamento complicado com os Códigos;
-          👩🏽‍💻Atualmente sou estudante de Desenvolvimento para web na <Growdev/>;
-          💻Estou na 13º Edição do Programa Starter Full Stack Web Developer;
-          🎈 Aprendi a nunca desistir dos meus objetivos;
-          🐈‍Amo Gatos; ⛹🏽‍♀️Basquete; 🎵 Musica; 🎬Filmes; Tecnologia🧡;
+          💻Sou formado em Gestão da Tecnologia da Informação;
+          👩🏽‍💻Atualmente sou estudante na <Growdev/>;
+          🎈Aprendi a nunca desistir dos meus objetivos;
+          🐈Gatos; ⛹🏽‍♀️Basquete; 🎵 Musica; 🎬Filmes; Tecnologia🧡;
       ----------------------------------------------------------------------
         Experiências Profissionais:
         
@@ -32,5 +31,7 @@ Entre em contato pelos links abaixo:
 
   <a href="https://instagram.com/gabrielmormanno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-mormanno-5b8a15211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.t.me/Gmormanno" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  
 
 </div>
