@@ -3,7 +3,7 @@
           💻Sou formado em Gestão da Tecnologia da Informação;
           👩🏽‍💻Atualmente sou estudante na </Growdev>\;
           🎈Experiências Profissionais: Atendente de telekemarketing;
-          🐈Gatos; ⛹🏽‍♀️Basquete; 🎵 Musica; 🎬Filmes; Tecnologia🧡;
+          🐈Gatos; ⛹🏽‍♀️Basquete; 🎵 Musica; 🎮Video-Games; Tecnologia🧡;
               
 <div>
       Principais linguagens que eu estou estudando:
