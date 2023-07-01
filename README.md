@@ -2,7 +2,7 @@
 
           💻Sou formado em Gestão da Tecnologia da Informação;
           👩🏽‍💻Atualmente sou estudante na </Growdev>\;
-          🎈Experiências Profissionais: Atendente de telemarketing; A Espera da primeira oportunidade na area da tecnilogia;
+          🎈Experiências Profissionais: Atendente de telemarketing; A Espera da primeira oportunidade na area da tecnologia;
           🐈Gatos; ⛹🏽‍♀️Basquete; 🎵 Musica; 🎮Video-Games; Tecnologia🧡;
               
 <div>
